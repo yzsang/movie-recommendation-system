@@ -1,8 +1,5 @@
 .ipynb_checkpoints/
 anaconda_projects/
 ml-25/
-.ipynb_checkpoints/
-ml-25/
-anaconda_projects/
-.ipynb_checkpoints/
-anaconda_projects/
+.DS_Store
+.virtual_documents/
